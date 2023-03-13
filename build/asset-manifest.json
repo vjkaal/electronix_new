@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vjkaal/_electronix_/static/css/main.073c9b0a.css",
+    "main.js": "/vjkaal/_electronix_/static/js/main.8c457d0c.js",
+    "static/js/787.a18f7441.chunk.js": "/vjkaal/_electronix_/static/js/787.a18f7441.chunk.js",
+    "static/media/logo.svg": "/vjkaal/_electronix_/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vjkaal/_electronix_/index.html",
+    "main.073c9b0a.css.map": "/vjkaal/_electronix_/static/css/main.073c9b0a.css.map",
+    "main.8c457d0c.js.map": "/vjkaal/_electronix_/static/js/main.8c457d0c.js.map",
+    "787.a18f7441.chunk.js.map": "/vjkaal/_electronix_/static/js/787.a18f7441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8c457d0c.js"
+  ]
+}
